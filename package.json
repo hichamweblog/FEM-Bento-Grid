@@ -1,0 +1,29 @@
+{
+  "name": "vanilla_js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "format": "prettier --write .",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "@mojojoejo/vite-plugin-purgecss": "^1.1.0",
+    "@types/eslint-config-prettier": "^6.11.3",
+    "@types/eslint__js": "^8.42.3",
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.6",
+    "eslint": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.45",
+    "prettier": "^3.3.3",
+    "vite": "^5.4.1"
+  }
+}
