@@ -1,6 +1,6 @@
 # Frontend Mentor - Bento Grid Solution
 
-This is a solution to the [Bento Grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-box-sections-pJ0yN9zYx).
+This is a solution to the [Bento Grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj).
 
 ## Table of Contents
 
